@@ -1,4 +1,4 @@
     Este é um programa em python simples, que irá escanear links, procurando uma falha simples de XSS.
     Como eu havia dito, é um programa simples, e por isso pode não funcionar com python3. Para alterar a url alvo, modifique a váriavel "url_alvo" no arquivo vulnscan01.py
 
-    Feito por Gustavo Muniz
+    Feito por Gustavo Muniz https://github.com/malware-tz
